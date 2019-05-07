@@ -1,0 +1,1 @@
+<?php header( 'Location: /SAO_LUCAS_ADM_index.html' ) ;  ?>
