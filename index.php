@@ -1,1 +1,1 @@
-<?php header( 'Location: /SAO_LUCAS_ADM_index.html' ) ;  ?>
+<?php header( 'Location: /SAO_LUCAS_DOIS_CURSOS_index.html' ) ;  ?>

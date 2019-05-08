@@ -1,5 +1,0 @@
-﻿Geração iniciada em: 07/05/2019 14:30
-
-Semente aleatória no início da geração é: X=1079460618, Y=1395789619
-
-Esse arquivo foi gerado automaticamente por FET 5.37.5.
